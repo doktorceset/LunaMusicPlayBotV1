@@ -16,7 +16,7 @@
     "BOT_NAME": {
       "description": "MusicPlayer Bot Adınız.",
       "required": false,
-      "value": "Saygısızlar Müzik Bot"
+      "value": "Luna Müzik Bot"
     },
     "API_ID": {
       "description": "App ID my.telegram.org/apps",
