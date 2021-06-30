@@ -20,7 +20,7 @@ async def addchannel(client, message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name =  "Phantom Asistan"
+        user.first_name =  "MCMusicPlayBot Asistan"
 
     try:
         await USER.join_chat(invitelink)
@@ -34,7 +34,7 @@ async def addchannel(client, message):
         print(e)
         await message.reply_text(
             f"<b>🛑 Zaman Aşımı Hatası 🛑 \n User {user.first_name} userbot için yoğun katılma istekleri nedeniyle grubunuza katılamadı! Asistanın grupta yasaklanmadığından emin olun."
-            "\n\n Yada @PhantomAsistan Hesabını Gruba Kendin Ekle </b>",
+            "\n\n Yada @MCMusicPlayBotasistan Hesabını Gruba Kendin Ekle </b>",
         )
         return
     await message.reply_text(
