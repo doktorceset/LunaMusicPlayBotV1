@@ -1,8 +1,8 @@
 {
-  "name": "MusicBot",
+  "name": "LunaMusicBot",
   "description": "Telegram'ınızın Grup Sesli Sohbeti'nde şarkı çalmak için Açık Kaynaklı bot. PyTgCalls tarafından desteklenmektedir.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/cancinconntg/vc_bot",
+  "repository": "https://github.com/doktorceset/LunaMusicPlayBotV1",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -16,7 +16,7 @@
     "BOT_NAME": {
       "description": "MusicPlayer Bot Adınız.",
       "required": false,
-      "value": "Luna Müzik Bot"
+      "value": "LunaNews Müzik Bot"
     },
     "API_ID": {
       "description": "App ID my.telegram.org/apps",
