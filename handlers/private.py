@@ -24,10 +24,10 @@ Grubunuzun sesli sohbetinde müzik çalmanıza izin 😉
             [
                 [
                     InlineKeyboardButton(
-                        "Grup 💬", url="https://t.me/lunabotnew"
+                        "Grup 💬", url="https://t.me/RobotRoomChat"
                     ),
                     InlineKeyboardButton(
-                        "Kanal 📣", url="https://t.me/lunabotnews"
+                        "Kanal 📣", url="https://t.me/RobotRoom"
                     )
                 ]
             ]
