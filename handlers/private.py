@@ -32,6 +32,4 @@ Grubunuzun sesli sohbetinde müzik çalmanıza izin 😉
                     InlineKeyboardButton(
                         "Kurucu 👨‍💻", url="https://t.me/senseiisttrip"
                     )   
-            ]              
-        )
-    )
+            ]
