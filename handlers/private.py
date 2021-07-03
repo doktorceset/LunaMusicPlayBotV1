@@ -24,7 +24,7 @@ Grubunuzun sesli sohbetinde müzik çalmanıza izin 😉
             [
                 [
                     InlineKeyboardButton(
-                        "Grup Ekle", url="https://t.me/RobotRoomChat?startgroup=true"
+                        "Grup Ekle", url="https://t.me/LamaMusicBot?startgroup=true"
                     ),
                     InlineKeyboardButton(
                         "Kanal 📣", url="https://t.me/RobotRoom"
