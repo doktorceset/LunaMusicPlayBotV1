@@ -28,8 +28,11 @@ Grubunuzun sesli sohbetinde müzik çalmanıza izin 😉
                     ),
                     InlineKeyboardButton(
                         "Kanal 📣", url="https://t.me/lunabotnews"
-                    )
-                ]
-            ]
+                    ),
+                ]                
+                    InlineKeyboardButton(
+                        "Kurucu 👨‍💻", url="https://t.me/senseiisttrip"
+                    )   
+            ]              
         )
     )
