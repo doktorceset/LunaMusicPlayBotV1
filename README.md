@@ -1,4 +1,4 @@
-<h1 align="centre">🎶 Müzik Bot 🎶</h1>
+<h1 align="centre">🎶 Müzik Bot 2 🎶</h1>
 
 Ana Grup = [Luna News](https://t.me/lunanews)
 
