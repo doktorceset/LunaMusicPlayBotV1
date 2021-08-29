@@ -10,7 +10,7 @@ Hazırlayan = [Luna News](https://t.me/lunanews)
 
 STRING_NAME i buradan alın ;
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://repl.it/@doktorceset/LunaMusicbot)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@doktorceset/LunaMusicBot#main.py)
 
 ### Zorunlu Gerekenler. 
 ----------------------------------
