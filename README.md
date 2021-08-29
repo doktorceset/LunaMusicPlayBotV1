@@ -1,8 +1,8 @@
 <h1 align="centre">🎶 Müzik Bot 🎶</h1>
 
-Ana Grup = [Luna News](https://t.me/lunanews)
+Ana Grup = [Luna News](https://t.me/lunabotnews)
 
-Hazırlayan = [Luna News](https://t.me/lunanews)
+Hazırlayan = [Luna News](https://t.me/lunabotnews)
 
 <h3 align="centre"> Heroku </h4>
 
