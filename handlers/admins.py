@@ -10,7 +10,7 @@ from helpers.filters import command, other_filters
 from helpers.decorators import errors, authorized_users_only
 
 
-@Client.on_message(command("durdur") & other_filters)
+@Client.on_message(command("end") & other_filters)
 @errors
 @authorized_users_only
 async def durdur(_, message: Message):
@@ -40,7 +40,7 @@ async def devam(_, message: Message):
         await message.reply_text(f"**{BN} :-** 🥳 Devam Ediyor!")
 
 
-@Client.on_message(command("bitir") & other_filters)
+@Client.on_message(command("skip") & other_filters)
 @errors
 @authorized_users_only
 async def bitir(_, message: Message):
@@ -56,7 +56,7 @@ async def bitir(_, message: Message):
         await message.reply_text(f"**{BN} :-** ❌ Bitirildi!")
 
 
-@Client.on_message(command("atla") & other_filters)
+@Client.on_message(command("skip") & other_filters)
 @errors
 @authorized_users_only
 async def atla(_, message: Message):
